@@ -19,3 +19,5 @@ You can see my live "website" here: [carsonmckinstry.github.io](https://carsonmc
 4. In your browser, navigate to <username>.github.io, assuming you've got an index.html file in your repository, you'll see the contents of the file. 
 
 **Important: In all instances, where you see \<username\>, replace this with your github username.**
+
+**Ex: https://github.com/carsonmckinstry/carsonmckinstry.github.io.git**
