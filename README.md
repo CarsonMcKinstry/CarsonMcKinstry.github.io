@@ -1,5 +1,7 @@
 # Hello Github Pages
 
+You can see my live "website" here: [carsonmckinstry.github.io](https://carsonmckinstry.github.io)
+
 ## Need up help setting up?
 
 1. Create a repository in github named `<your github username>.github.io`, just like I've named my repo
